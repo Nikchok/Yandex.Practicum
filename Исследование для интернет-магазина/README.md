@@ -17,3 +17,4 @@ Rating — рейтинг от организации ESRB (англ. Entertainm
 <div class="alert alert-success"; style="border-left: 7px solid green">
 <h5> ✔️ <font color="green">Комментарий ревьюера (зеленый)</font></h5>
 **Навыки и инструменты:** Python, Pandas, Matplotlib, NumPy, Seaborn, SciPy, предобработка данных, исследовательский анализ данных, описательная статистика, проверка статистических гипотез.
+</div>
